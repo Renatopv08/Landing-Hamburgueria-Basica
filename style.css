@@ -244,6 +244,7 @@ h2 {
 
 .sobre-texto {
   max-width: 500px;
+  justify-content: center;
 }
 
 .sobre p {
